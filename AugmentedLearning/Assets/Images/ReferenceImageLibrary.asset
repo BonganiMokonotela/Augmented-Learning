@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4912728746084170861
+  m_GuidHigh: 7537576586208135055
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5154188803513130719
+      m_GuidHigh: 17051770299903593868
+    m_SerializedTextureGuid:
+      m_GuidLow: 7522406344702869299
+      m_GuidHigh: 4805307025141366683
+    m_Size: {x: 0.5, y: 0.5}
+    m_SpecifySize: 1
+    m_Name: Brain
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5333497699575001265
+      m_GuidHigh: 18134532974345122221
+    m_SerializedTextureGuid:
+      m_GuidLow: 8004052517953204361
+      m_GuidHigh: 11268595239926973611
+    m_Size: {x: 0.5, y: 0.5}
+    m_SpecifySize: 1
+    m_Name: DNA
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5480918408454152564
+      m_GuidHigh: 10782511186939435684
+    m_SerializedTextureGuid:
+      m_GuidLow: 12368148769290413297
+      m_GuidHigh: 17671839032286443803
+    m_Size: {x: 0.3, y: 0.28084618}
+    m_SpecifySize: 1
+    m_Name: Eye
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5395761599258196219
+      m_GuidHigh: 8478000100905899136
+    m_SerializedTextureGuid:
+      m_GuidLow: 15498262392084347871
+      m_GuidHigh: 3492425805586515562
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: Neuron
+    m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 5047953000995337172
+      m_GuidHigh: 1359096475075740585
+    m_SerializedTextureGuid:
+      m_GuidLow: 15790997022287969972
+      m_GuidHigh: 7957881984477102091
+    m_Size: {x: 0.2, y: 0.4199475}
+    m_SpecifySize: 1
+    m_Name: DNA Replication
+    m_Texture: {fileID: 0}
